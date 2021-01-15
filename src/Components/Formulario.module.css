@@ -1,0 +1,27 @@
+.heading {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 900;
+  font-size: 2rem;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.buscador {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  text-align: left;
+  background-color: rgb(128, 128, 128, 0.7);
+}
+
+.btn_block {
+  font-family: 'Arvo', serif;
+  width: 100%;
+}
+.fondoForm {
+  width: 100%;
+  height: 100%;
+  background-image: url('../brian-mcgowan-K1NHgQKTso8-unsplash.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+}
